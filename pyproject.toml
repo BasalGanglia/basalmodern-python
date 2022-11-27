@@ -1,14 +1,14 @@
 [tool.poetry]
-name = "hypermodern-python"
+name = "basalmodern-python"
 version = "0.1.0"
-description = "The Hypermodern Python Project"
+description = "The basalmodern Python Project"
 license = "MIT"
 authors = ["ilkka <ilkka.kosunen@gmail.com>"]
-homepage = "https://github.com/BasalGanglia/hypermodern-python"
-repository = "https://github.com/BasalGanglia/hypermodern-python"
+homepage = "https://github.com/BasalGanglia/basalmodern-python"
+repository = "https://github.com/BasalGanglia/basalmodern-python"
 readme = "README.md"
-keywords = ["hypermodern"]
-packages = [{include = "hypermodern_python"}]
+keywords = ["basalmodern"]
+packages = [{include = "basalmodern_python"}]
 
 [tool.poetry.dependencies]
 python = "^3.7"
